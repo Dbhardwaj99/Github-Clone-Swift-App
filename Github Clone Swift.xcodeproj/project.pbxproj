@@ -24,7 +24,7 @@
 		C1044D0C2B341CBE00FB552D /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		C1044D102B34274900FB552D /* FollowRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowRow.swift; sourceTree = "<group>"; };
 		C1044D122B342EFB00FB552D /* Structures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Structures.swift; sourceTree = "<group>"; };
-		C124F9222B28D0CC00795B94 /* jsontesting app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "jsontesting app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C124F9222B28D0CC00795B94 /* Github Clone Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Github Clone Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C124F9252B28D0CC00795B94 /* jsontesting_appApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jsontesting_appApp.swift; sourceTree = "<group>"; };
 		C124F9272B28D0CC00795B94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C124F9292B28D0CD00795B94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 		C124F9232B28D0CC00795B94 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C124F9222B28D0CC00795B94 /* jsontesting app.app */,
+				C124F9222B28D0CC00795B94 /* Github Clone Swift.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -115,9 +115,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C124F9212B28D0CC00795B94 /* jsontesting app */ = {
+		C124F9212B28D0CC00795B94 /* Github Clone Swift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C124F9302B28D0CD00795B94 /* Build configuration list for PBXNativeTarget "jsontesting app" */;
+			buildConfigurationList = C124F9302B28D0CD00795B94 /* Build configuration list for PBXNativeTarget "Github Clone Swift" */;
 			buildPhases = (
 				C124F91E2B28D0CC00795B94 /* Sources */,
 				C124F91F2B28D0CC00795B94 /* Frameworks */,
@@ -127,9 +127,9 @@
 			);
 			dependencies = (
 			);
-			name = "jsontesting app";
+			name = "Github Clone Swift";
 			productName = "jsontesting app";
-			productReference = C124F9222B28D0CC00795B94 /* jsontesting app.app */;
+			productReference = C124F9222B28D0CC00795B94 /* Github Clone Swift.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -147,7 +147,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C124F91D2B28D0CC00795B94 /* Build configuration list for PBXProject "jsontesting app" */;
+			buildConfigurationList = C124F91D2B28D0CC00795B94 /* Build configuration list for PBXProject "Github Clone Swift" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -160,7 +160,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C124F9212B28D0CC00795B94 /* jsontesting app */,
+				C124F9212B28D0CC00795B94 /* Github Clone Swift */,
 			);
 		};
 /* End PBXProject section */
@@ -377,7 +377,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C124F91D2B28D0CC00795B94 /* Build configuration list for PBXProject "jsontesting app" */ = {
+		C124F91D2B28D0CC00795B94 /* Build configuration list for PBXProject "Github Clone Swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C124F92E2B28D0CD00795B94 /* Debug */,
@@ -386,7 +386,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C124F9302B28D0CD00795B94 /* Build configuration list for PBXNativeTarget "jsontesting app" */ = {
+		C124F9302B28D0CD00795B94 /* Build configuration list for PBXNativeTarget "Github Clone Swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C124F9312B28D0CD00795B94 /* Debug */,
