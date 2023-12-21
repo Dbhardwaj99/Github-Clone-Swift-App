@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct jsontesting_appApp: App {
+struct Github_Clone_SwiftApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
